@@ -22,7 +22,7 @@ struct node2
 };
 
 typedef struct node snode;
-typedef struct node2 snode2;
+typedef struct node2 snode2; 
 snode *newnode, *ptr, *prev,*temp;
 snode *first = NULL, *last = NULL;
 snode2 *newnode2, *ptr2, *prev2,*temp2;
