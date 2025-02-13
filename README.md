@@ -7,7 +7,7 @@
 
 struct node
 {
-    int id;
+    int id; 
     char name[20];
     int price;
     int qty;
